@@ -3,4 +3,6 @@ RENCANA VLOG
   Menyelesaikan Bug Error
 - Day in My Life
   Keseharian Koding
-- Jadwal Koding
+- Koding
+  Web 
+  Python
