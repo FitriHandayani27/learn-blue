@@ -1,6 +1,9 @@
 RENCANA VLOG 
 - Tips and Trick
   Menyelesaikan Bug Error
+  Cara Cepat Koding
 - Day in My Life
   Keseharian Koding
-- Jadwal Koding
+- Kodingan
+  Flutter
+   Kotlin
