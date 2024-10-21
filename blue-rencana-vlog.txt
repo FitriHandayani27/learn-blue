@@ -4,6 +4,8 @@ RENCANA VLOG
   Cara Cepat Koding
 - Day in My Life
   Keseharian Koding
+- Koding
+  Web 
+  Python
 - Kodingan
   Flutter
-   Kotlin
